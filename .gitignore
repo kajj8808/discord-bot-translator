@@ -1,0 +1,6 @@
+/node_modules
+.env
+babel.config.json
+config.json
+backup
+save

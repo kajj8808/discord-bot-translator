@@ -1,0 +1,22 @@
+{
+  "name": "discordks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "type": "commonjs",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.5.0",
+    "axios": "^0.21.1",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
